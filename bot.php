@@ -1,5 +1,7 @@
 <?php
 // echo "I am a bot สวัสดีครับ ผมเป็นบอท";
+$proxy = 'velodrome.usefixie.com:80';
+$proxyauth = 'fixie:UyMkhTYQd1jPe6l';
 
 $access_token = 'uw5hXwvPLk10iAQ0p5IBohxg5wEAVyO5+SZ6YJO3abg/10A5VS/MgoqfjTBTk5YPe6V954pvMf9Vl65tFc/okyLgtpx2abFMutUkG4T/XX03VOMmS01zPiWMS87iYbkHicbin5qJwUYQuevGVK4OvQdB04t89/1O/w1cDnyilFU=';
 
